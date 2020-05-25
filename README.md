@@ -1,2 +1,4 @@
-# hello-world
-just another respository
+#Boston-housing-prices-prediction-and-MNIST-handwritten-image-recognition
+这是上海交通大学机器学习课程第一次大作业的关于线性回归模型和分类问题的应用
+线性回归主要是解决波士顿房价预测问题，分类问题主要使用了SVM对MINST手写图像识别问题进行了解决
+主要使用了python中scikit-learn库
